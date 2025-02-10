@@ -17,7 +17,7 @@
         "thumbnail": "https://img.youtube.com/vi/OheJCUaX8_w/0.jpg",
         "channelName": "Rhyad",
         "channelLink": "https://www.youtube.com/channel/UCU55V4VMQATlce_k_-FDEXA",
-        "channelImage": "https://yt3.googleusercontent.com/687jCN1t82JALn7X3epUXR20c0J38aQ97Yc9QrH6GYNpZi2BK1_Nvcfl2tJhEEweIExZm3BxHQ=s160-c-k-c0x00ffffff-no-rj"
+        "channelImage": "https://yt3.ggpht.com/yXCdfOlq9ZxuBNxBESKBGHlEwahxl2pJenJypadjdbAocUrwW7vowj0AKxnN3U38pETtbaIOGg=s88-c-k-c0x00ffffff-no-rj"
     },
     {
         "id": "3",
@@ -38,5 +38,15 @@
         "channelName": "danishkim007",
         "channelLink": "https://www.youtube.com/channel/UCgX2sPWPLJAmPCPdtpBA66w",
         "channelImage": "https://yt3.ggpht.com/ytc/AIdro_nUR986ouu44CwEmwMh8vXU_DWpZqmXDIqwm7H67R9q9w=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "id": "5",
+        "title": "Einstein’s relativity simply explained in Quran - There Is No Clash",
+        "description": "Spaceships moving at relativistic speeds appear to be \"squished\" in the direction of movement (length contraction). Astronauts measure the seconds ticking by slower in space (time dilation)......",
+        "link": "https://www.youtube.com/watch?v=eQDEd2ugkfg",
+        "thumbnail": "https://img.youtube.com/vi/eQDEd2ugkfg/0.jpg",
+        "channelName": "ThereIsNoClash",
+        "channelLink": "https://www.youtube.com/channel/UCn5fWwAp5IomJb4Gv1frEjA",
+        "channelImage": "https://yt3.ggpht.com/ytc/AIdro_mlExqtceYz1JoKFJAq8SNcT_659swM4QPIvHI3RgTVLw=s88-c-k-c0x00ffffff-no-rj"
     }
 ]
